@@ -1,11 +1,11 @@
-Hi 👋 My name is Trif Alexandru
+Hi 👋 My name is Alex T.
 ===============================
 
-Web Developer of Tech Stack Apps
+Full Stack Developer @ Tech Stack Apps
 --------------------------------
 
 * 🌍  I'm based in Europa
-* ✉️  You can contact me at [mailto:hello@techstackapps.com](mailto:mailto:hello@techstackapps.com)
+* ✉️  You can contact me at [mailto:hello@techstackapps.com]
 * 🧠  I'm learning Gin (Go framework)
 * 🤝  I'm open to collaborating on I'm open to collaborating on Healthcare projects through Tech Stack Apps
 
